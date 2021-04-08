@@ -1,0 +1,11 @@
+.request
+include::{snippets}/Post/http-request.adoc[]
+
+.response
+include::{snippets}/Post/http-response.adoc[]
+
+.request
+include::{snippets}/addPost/http-request.adoc[]
+
+.response
+include::{snippets}/addPost/http-response.adoc[]
