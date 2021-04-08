@@ -18,3 +18,4 @@ POST `/posts `
 
 
 [API Spec](./build/asciidoc/html5/index.html)
+![APISPEC ](./src/docs/api_spec.png)
